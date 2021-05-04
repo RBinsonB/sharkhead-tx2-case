@@ -1,5 +1,5 @@
 # Sharkhead Nvidia Jetson TX2 Orbitty Case
-A portable case for the Nvidia Jetson TX2 on a [Connect Tech Orbitty Carrier board](https://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/) for embedded applications (robotics, UAV,...). The case is designed to be portable and easily moved between supports thanks to its clipping mechanism.
+A 3D-printed portable case for the Nvidia Jetson TX2 on a [Connect Tech Orbitty Carrier board](https://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/) for embedded applications (robotics, UAV,...). The case is designed to be portable and easily moved between supports thanks to its clipping mechanism.
 
 It is the ideal case for use as a onboard computer on a robot or UAV.
 
@@ -29,6 +29,18 @@ The following parts are required to assemble the case.
 
 ADD PICTURE ALL PARTS ON DESK
 
+#### Printed part
+* (1x) lower case part (PLA)
+* (1x) connector holder (PLA)
+* (1x) left clip (PLA)
+* (1x) right clip (PLA)
+* (2x) front clips (PLA)
+* (2x) rear latches (PLA)
+* (1x) holder (PLA)
+* (1x) case top cover (clear resin)
+
+(ADD link to STL files)
+
 #### Mechanical parts
 * (3x) M3 inserts (M4 outer diameter)
 * (2x) M3 20mm male to female spacers
@@ -48,6 +60,25 @@ The following connectors are needed for one case:
 * (1x) Molex minifit Jr. male housing (2x1) and its associated crimp terminals
 * (2x) Ribbon cable female connectors (20 poles, 2.54mm) and associated 20 wire ribbon cable
 
-
 ### Printing the case
-### 
+#### PLA
+Most parts were printed using Ultimaker black PLA and/or black tough PLA with PVA supports (dual-printcore printer). The PVA support material is disovable in water and allow for a high precision in the printed connector housings. It's probably possible to print the parts without the PVA support material, but that would require more post-processing to remove the supports from the connector housings.
+
+For each part, the following printing parameters were used.
+
+##### lower case part
+| Parameter | Value |
+| --------- | ----- |
+| Layer height | 0.1mm |
+| Infill | 40% |
+| Infill pattern | cubic subdivision |
+| Support material | PVA |
+| Support pattern | triangles |
+| Support overhang | 45% |
+
+
+#### Clear resin
+The cover is printed using a resin printer and clear resin. This is made so the part is clear enough to see the LED through (after sanding and coating).
+
+
+
