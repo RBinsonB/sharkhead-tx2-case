@@ -1,11 +1,15 @@
 # Sharkhead Nvidia Jetson TX2 Orbitty Case
 A 3D-printed portable case for the Nvidia Jetson TX2 on a [Connect Tech Orbitty Carrier board](https://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/) for embedded applications (robotics, UAV,...). The case is designed to be portable and easily moved between supports thanks to its clipping mechanism.
 
-It is the ideal case for use as a onboard computer on a robot or UAV.
+ADD PICTURE OF CASE
 
-ADD PICTURE OF EXAMPLE.
+It is the ideal case for use as a onboard computer on a robot or UAV. Free to use for academic and personnal (non-profit) use. Commercial use is not permitted without consent.
 
-Free to use for academic and personnal (non-profit) use. Commercial use is not permitted without consent.
+<a href="/documentation/pictures/4wd_holonomic_robot.png"><img src="/documentation/pictures/4wd_holonomic_robot.png" align="center" height="306" width="355"></a>
+<a href="/documentation/pictures/foxtech_uav.png"><img src="/documentation/pictures/foxtech_uav.png" align="center" height="306" width="421"></a>
+
+*The Sharkhead case mounted on an holonomic mecanum wheel robot and on a drone.*
+
 
 ## Overview
 ### Power requirements
@@ -45,7 +49,7 @@ ADD PICTURE ALL PARTS ON DESK
 * (3x) M3 inserts (M4 outer diameter)
 * (2x) M3 20mm male to female spacers
 * (2x) M3 5-to-15mm hex head screws
-* (4x) M3 18mm countersunk screws
+* (5x) M3 18mm countersunk screws
 #### Electronics
 * (1x) NVidia TX2 or TX1 (of course)
 * (1x) [Connect Tech Orbitty carrier board](https://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/)
