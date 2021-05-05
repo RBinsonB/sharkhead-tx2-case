@@ -35,7 +35,7 @@ ADD PICTURE ALL PARTS ON DESK
 * (1x) left clip (PLA)
 * (1x) right clip (PLA)
 * (2x) front clips (PLA)
-* (2x) rear latches (PLA)
+* (2x) rear locks (PLA)
 * (1x) holder (PLA)
 * (1x) case top cover (clear resin)
 
@@ -66,7 +66,23 @@ Most parts were printed using Ultimaker black PLA and/or black tough PLA with PV
 
 For each part, the following printing parameters were used.
 
-##### lower case part
+**lower case part**
+
+| Parameter | Value |
+| --------- | ----- |
+| Layer height | 0.1mm |
+| Infill | 40% |
+| Infill pattern | cubic subdivision |
+| Support material | PVA |
+| Support pattern | triangles |
+| Support overhang | 45% |
+
+**front clip, left clip, right clip, rear locks**
+
+For the clips, it's important to print them laying on their side to make the part stronger in the bending direction.
+
+ADD PIC
+
 | Parameter | Value |
 | --------- | ----- |
 | Layer height | 0.1mm |
