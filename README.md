@@ -6,7 +6,7 @@ ADD PICTURE OF CASE
 It is the ideal case for use as a onboard computer on a robot or UAV. Free to use for academic and personnal (non-profit) use. Commercial use is not permitted without consent.
 
 <a href="/documentation/pictures/4wd_holonomic_robot.png"><img src="/documentation/pictures/4wd_holonomic_robot.png" align="center" height="306" width="355"></a>
-<a href="/documentation/pictures/foxtech_uav.png"><img src="/documentation/pictures/foxtech_uav.png" align="center" height="306" width="421"></a>
+<img src="/documentation/pictures/foxtech_uav.png" align="center" height="306" width="421"/>
 
 *The Sharkhead case mounted on an holonomic mecanum wheel robot and on a drone.*
 
@@ -56,7 +56,8 @@ ADD PICTURE ALL PARTS ON DESK
 * (1x) set of antenna (included with the Orbitty carrier board)
 * (2x) voltage regulator (step-down) LM2596 boards. The boards are cheap and easily findable online, but they should have the following dimensions to fit within the case.
 
-ADD PIC DIMENSIONS
+<a><img src="/documentation/pictures/lm2596_board.jpg" height="300" width="300"/></a>
+<img src="/documentation/pictures/lm2596_dimensions.png" height="300"/>
 
 #### Connectors
 The following connectors are needed for one case:
@@ -68,9 +69,7 @@ The following connectors are needed for one case:
 #### PLA
 Most parts were printed using Ultimaker black PLA and/or black tough PLA with PVA supports (dual-printcore printer). The PVA support material is disovable in water and allow for a high precision in the printed connector housings. It's probably possible to print the parts without the PVA support material, but that would require more post-processing to remove the supports from the connector housings.
 
-For each part, the following printing parameters were used.
-
-**lower case part**
+The following printing parameters were used for all parts printed in PLA:
 
 | Parameter | Value |
 | --------- | ----- |
@@ -84,21 +83,13 @@ For each part, the following printing parameters were used.
 **front clip, left clip, right clip, rear locks**
 
 For the clips, it's important to print them laying on their side to make the part stronger in the bending direction.
-
-ADD PIC
-
-| Parameter | Value |
-| --------- | ----- |
-| Layer height | 0.1mm |
-| Infill | 40% |
-| Infill pattern | cubic subdivision |
-| Support material | PVA |
-| Support pattern | triangles |
-| Support overhang | 45% |
+<img src="/documentation/pictures/clip_printing.png" align="center" height="475" width="652"/>
 
 
 #### Clear resin
-The cover is printed using a resin printer and clear resin. This is made so the part is clear enough to see the LED through (after sanding and coating).
+The cover is printed using a resin printer and clear resin so that the part is clear enough to see the LEDs (after sanding and coating). The resin used was the Formlabs Clear Resin V2 (FLGPCL02) but any clear resin can do.
 
+**Post-process**
 
+After printing, the part is rinsed of the remaining resin by immersion in a isopropyl alcohol bath as recommended by the [manufacturer](https://formlabs.com/blog/design-to-3d-print-form-3-workflow-video/), but the part is not cured afterward. Instead, it can be polished with sand paper and coated with a transparent paint to obtain a clear result ([check Formlabs blog article on clear parts here](https://formlabs.com/blog/3d-printing-transparent-parts-techniques-for-finishing-clear-resin/)).
 
