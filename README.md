@@ -15,12 +15,21 @@ It is the ideal case for use as a onboard computer on a robot or UAV. Free to us
 ### Power requirements
 The case integrates its own power supply regulation (LM2596 DC-DC step-down voltage regulator board) and can be directly plugged to a battery within the range of what's permitted by the LM2596 board (input voltage up to 40V, minimum 9V). In addition the case includes another voltage regulator to output power for an accessory, with adjustable voltage and up to 3A output load current.
 
+<img src="/documentation/pictures/connector_back_side.png" width="450">
+
 ### Ports
 The case exposes all the ports from the Orbitty Carrier board, including the GPIO and with the exception of the SD card port:
 * Ethernet
 * USB3
 * HDMI
 * micro-USB
+
+<img src="/documentation/pictures/connector_left_side.png" width="550">
+
+On the right side the RECOVERY, RESET and POWER buttons can be accessed, as well as the fan setting switches.
+
+
+<img src="/documentation/pictures/buttons_right_side.png" width="550">
 
 #### GPIO
 The GPIO are forwarded to the female header on the side of the case.
