@@ -5,7 +5,7 @@ A 3D-printed portable case for the Nvidia Jetson TX2 on a [Connect Tech Orbitty 
 <img src="/documentation/pictures/render_2.png" align="center" width="600"/>
 
 
-It is the ideal case for use as a onboard computer on a robot or UAV. Free to use for academic and personnal (non-profit) use. Commercial use is not permitted without consent.
+It is the ideal case for use as a onboard computer on a robot or UAV (rapid unscheduled dissassembly on impact feature included). Free to use for academic and personnal (non-profit) use. Commercial use is not permitted without consent.
 
 <a href="/documentation/pictures/4wd_holonomic_robot.png"><img src="/documentation/pictures/4wd_holonomic_robot.png" align="center" height="306" width="355"></a>
 <img src="/documentation/pictures/foxtech_uav.png" align="center" height="306" width="421"/>
