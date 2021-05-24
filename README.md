@@ -36,7 +36,7 @@ On the right side the RECOVERY, RESET and POWER buttons can be accessed, as well
 #### GPIO
 The GPIO are forwarded to the female header on the side of the case.
 
-ADD PICTURE OF GPIO ON CASE
+<img src="/documentation/pictures/gipo_details.png" width="700">
 
 ## Assembly instructions
 ### Necessary parts
