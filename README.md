@@ -36,7 +36,27 @@ On the right side the RECOVERY, RESET and POWER buttons can be accessed, as well
 #### GPIO
 The GPIO are forwarded to the female header on the side of the case.
 
-<img src="/documentation/pictures/gpio_details.png" width="450">
+<img src="/documentation/pictures/gpio_details.png" width="400">
+
+### Case placement
+The case can clipped in its holder and removed easily. The holder part can be secured in place on the robot/UAV/whatever using M3 screws (or double-tape if you like to live dangerously). A drawing of the usable screw hole placement is presented below:
+
+<img src="/documentation/pictures/holder_hole_placement.png" width="550">
+
+To install the case in the holder:
+* Align and slide the rear locks in
+* Put the case in place
+* Push the front part until you can hear the clips clicking
+
+<img src="/documentation/pictures/installing_step1.png" width="310"> <img src="/documentation/pictures/installing_step2.png" width="310"> <img src="/documentation/pictures/installing_step3.png" width="310">
+
+To take out the case from the holder:
+* Push the clips on each side of the case
+* Lift the front part
+* Slide the case out
+
+<img src="/documentation/pictures/taking_out_step1.png" width="310"> <img src="/documentation/pictures/taking_out_step2.png" width="310"> <img src="/documentation/pictures/taking_out_step3.png" width="310">
+
 
 ## Assembly instructions
 ### Necessary parts
