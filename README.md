@@ -45,16 +45,14 @@ The following parts are required to assemble the case.
 ADD PICTURE ALL PARTS ON DESK
 
 #### Printed part
-* (1x) lower case part (PLA)
-* (1x) connector holder (PLA)
-* (1x) left clip (PLA)
-* (1x) right clip (PLA)
-* (2x) front clips (PLA)
-* (2x) rear locks (PLA)
-* (1x) holder (PLA)
-* (1x) case top cover (clear resin)
-
-(ADD link to STL files)
+* [(1x) lower case part (PLA)](/STL/casing_lower_part.STL)
+* [(1x) connector block (PLA)](/STL/casing_connector_block.STL)
+* [(1x) left clip (PLA)](/STL/clip.STL)
+* [(1x) right clip (PLA)](/STL/clip.STL) (same as left clip)
+* [(2x) front clips (PLA)](/STL/front_clip.STL)
+* [(2x) rear locks (PLA)](/STL/lock.STL)
+* [(1x) holder (PLA)](/STL/case_holder.STL)
+* [(1x) case top cover (clear resin)](/STL/casing_upper_part.STL)
 
 #### Mechanical parts
 * (3x) M3 inserts (M4 outer diameter)
